@@ -64,7 +64,7 @@ End IP: 10.0.0.100
 
 Click Next (3 times)
 
-Select I will configure these options later
+Select No.I will configure these options later
 
 Finish the wizard
 
@@ -77,8 +77,6 @@ Right-click Scope (10.0.0.0) WDS → Properties
 Go to Advanced tab
 
 Tick:
-
-✅ DHCP
 
 ✅ BOOTP
 
@@ -97,8 +95,6 @@ Right-click your Server Name → Configure Server
 Click Next
 
 Select:
-
-☑️ Integrated with Active Directory
 
 ☑️ Standalone Server
 
