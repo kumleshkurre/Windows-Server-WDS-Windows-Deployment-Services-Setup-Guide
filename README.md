@@ -145,4 +145,7 @@ End IP : 10.0.0.100
 Bachelor of Computer Applications (BCA) – Pursuing  
 IT Support & Networking Enthusiast  
 
+## ⭐ Support
+If you like this project, please ⭐ star the repository to support my work!
+  
 
